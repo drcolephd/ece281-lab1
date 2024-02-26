@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Failure: error on Jan
+Time: 20 ns  Iteration: 0  Process: /thirtyOneDayMonth_tb/test_process  File: C:/Users/C27Brandon.Sweitzer/code/ece281-lab1/src/hdl/thirtyOneDayMonth_tb.vhd
+$finish called at time : 20 ns : File "C:/Users/C27Brandon.Sweitzer/code/ece281-lab1/src/hdl/thirtyOneDayMonth_tb.vhd" Line 96
